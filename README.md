@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Abhi-1712">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhi-1712&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
 </a>
