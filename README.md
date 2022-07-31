@@ -26,26 +26,14 @@ Here are some ideas to get you started:
 
 ### GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/Abhi-1712">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhi-1712&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Abhi-1712" />
 </a>
-</p> -->
+</p>
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Abhi-1712" 
-    bg_color=#808080/></p>
 
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Abhi-1712" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-1712&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Abhi-1712" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
