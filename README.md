@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <h3 align="center"> GitHub Analytics </h3>
 
 <p align="left">
-<a href="https://github.com/Abhi-1712">
+<a href="https://github.com/Abhi-1712" width=50%>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="right">
-<a href="https://github.com/Abhi-1712">
+<a href="https://github.com/Abhi-1712" width=50%>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Abhi-1712" />
 </a>
