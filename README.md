@@ -32,9 +32,13 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-  <img align=left height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
+  <img align=left height="180em"  
+  width=50%
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
 
-  <img align=right src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
+  <img align=right
+  width=50% 
+  height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
 
 </a>
 </div>
