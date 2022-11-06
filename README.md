@@ -29,17 +29,16 @@ Here are some ideas to get you started:
 
 <h3 align="center"> GitHub Analytics </h3>
 
-<p align="left">
-<a href="https://github.com/Abhi-1712" width=50%>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
+
+<div align=center>
+
+  <img align=left height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
+
+  <img align=right src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
+
 </a>
-</p>
-<p align="right">
-<a href="https://github.com/Abhi-1712" width=50%>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Abhi-1712" />
-</a>
-</p>
+</div>
+<br/>
 
 [![Abhijeet's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
