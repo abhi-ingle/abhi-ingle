@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 Socials
 </h3>
 <p align=center>
-<a href="https://discordapp.com/users/821296505817530368"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-<a href="https://twitter.com/_arag0n"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+<a href="https://discordapp.com/users/821296505817530368"><img src="https://th.bing.com/th/id/OIP.3mBYFZUNGKLxOcwtT4LrIgHaHQ?pid=ImgDet&rs=1" height=80px  alt="discord"/></a>
+<a href="https://twitter.com/_arag0n"><img src="https://th.bing.com/th/id/OIP.ObdcWNj2ANpvvlQ7LVNBGAHaFj?w=267&h=200&c=7&r=0&o=5&dpr=1.25&pid=1.7" height=80px background=black alt="twitter"/></a>
 <a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
 </p>
