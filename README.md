@@ -27,6 +27,16 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h3 align=center>
+Socials
+</h3>
+<p align=center>
+<a href="https://discordapp.com/users/821296505817530368"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+<a href="https://twitter.com/_arag0n"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+<a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+
+</p>
+
 <h3 align="center"> GitHub Analytics </h3>
 
 
@@ -42,7 +52,8 @@ Here are some ideas to get you started:
 
 </a>
 </div>
-<br/>
+
+<br/><br/><br/>
 
 [![Abhijeet's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
