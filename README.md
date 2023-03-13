@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <i>Myself Abhijeet Ingle a.k.a Aragon. <br/>
 Never thought I would end up as an hacker.<br/>
-Anyways I am a internse day dreamer, you would hardly find me in senses, At night my hacker alias takes over.
+Anyways I am a internse day dreamer, you would hardly find me in senses, At night my hacker alias takes over.<br/>
 I hack private organizations, governments and universities.
 </i>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -57,9 +57,16 @@ I hack private organizations, governments and universities.
 Socials
 </h3>
 <p align=center>
-<a href="https://discordapp.com/users/821296505817530368"><img src="https://th.bing.com/th/id/OIP.3mBYFZUNGKLxOcwtT4LrIgHaHQ?pid=ImgDet&rs=1" height=80px  alt="discord"/></a>
-<a href="https://twitter.com/_arag0n"><img src="https://th.bing.com/th/id/OIP.ObdcWNj2ANpvvlQ7LVNBGAHaFj?w=267&h=200&c=7&r=0&o=5&dpr=1.25&pid=1.7" height=80px background=black alt="twitter"/></a>
-<a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<table>
+<tr>
+<td><a href="https://discordapp.com/users/821296505817530368"><img src="https://i.pinimg.com/564x/d7/b2/ac/d7b2ac2be0d74d97415c34df2e43c86f.jpg" border-radius=50% height=80px  alt="discord"/></a></td>
+<td><a href="https://twitter.com/_arag0n"><img src="https://www.iconsdb.com/icons/preview/black/twitter-xxl.png" height=80px border-radius=50%  alt="twitter"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/LinkedIn_logo_In-Black.svg/54px-LinkedIn_logo_In-Black.svg.png?20180207171515" height=80px border-radius=50% alt="linkedin"/></a>
+</td>
+</tr>
+</table>
+
 
 </p>
 
