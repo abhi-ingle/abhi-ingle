@@ -56,19 +56,19 @@ I hack private organizations, governments and universities.
 <h3 align=center>
 Socials
 </h3>
-<p align=center>
-<table>
+
+<table align=center>
 <tr>
-<td><a href="https://discordapp.com/users/821296505817530368"><img src="https://i.pinimg.com/564x/d7/b2/ac/d7b2ac2be0d74d97415c34df2e43c86f.jpg" border-radius=50% height=80px  alt="discord"/></a></td>
-<td><a href="https://twitter.com/_arag0n"><img src="https://www.iconsdb.com/icons/preview/black/twitter-xxl.png" height=80px border-radius=50%  alt="twitter"/></a>
+<td><a href="https://discordapp.com/users/821296505817530368"><img src="https://i.pinimg.com/564x/d7/b2/ac/d7b2ac2be0d74d97415c34df2e43c86f.jpg" % height=80px  alt="discord"/></a></td>
+<td><a href="https://twitter.com/_arag0n"><img src="https://www.iconsdb.com/icons/preview/black/twitter-xxl.png" height=80px   alt="twitter"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/LinkedIn_logo_In-Black.svg/54px-LinkedIn_logo_In-Black.svg.png?20180207171515" height=80px border-radius=50% alt="linkedin"/></a>
+<td><a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/LinkedIn_logo_In-Black.svg/54px-LinkedIn_logo_In-Black.svg.png?20180207171515" height=80px  alt="linkedin"/></a>
 </td>
 </tr>
 </table>
 
 
-</p>
+
 
 <h3 align="center"> GitHub Analytics </h3>
 
