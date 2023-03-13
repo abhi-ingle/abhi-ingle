@@ -32,7 +32,7 @@ I hack private organizations, governments and universities.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align=center>Arsenal</h3>
-<table>
+<table align=center>
 <tr>
 <td>⚡Web Application Penetration Testing</td>
 <td>⚡Network Penetration Testing</td>
