@@ -21,17 +21,29 @@ Here are some ideas to get you started:
 
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 <h2 align="center"> ⚡Greetings Citizens of the World 🌎</h2>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <i>Myself Abhijeet Ingle a.k.a Aragon. <br/>
-Never thought I would end up as an hacker.
+Never thought I would end up as an hacker.<br/>
 Anyways I am a internse day dreamer, you would hardly find me in senses, At night my hacker alias takes over.
-I hack private organisations, governments and universities.
+I hack private organizations, governments and universities.
 </i>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h3 align=center>Arsenal</h3>
+<ul style="align:right;list-style:none;columns:2;-webkit-columns:2;-moz-columns:2;">
+<li >⚡Web Application Penetration Testing</li>
+<li>⚡Network Penetration Testing</li>
+<li>⚡Open Source Intellegence Investigation</li>
+<li>⚡Cryptography</li>
+<li>⚡Social Engineering ❤</li>
+<li>⚡Python</li>
+<li>⚡Golang</li>
+<li>⚡Bash</li>
+</ul>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align=center>
 Socials
 </h3>
