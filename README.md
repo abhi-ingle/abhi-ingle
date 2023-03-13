@@ -32,16 +32,12 @@ I hack private organizations, governments and universities.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align=center>Arsenal</h3>
-<ul style="align:right;list-style:none;columns:2;-webkit-columns:2;-moz-columns:2;">
-<li >⚡Web Application Penetration Testing</li>
-<li>⚡Network Penetration Testing</li>
-<li>⚡Open Source Intellegence Investigation</li>
-<li>⚡Cryptography</li>
-<li>⚡Social Engineering ❤</li>
-<li>⚡Python</li>
-<li>⚡Golang</li>
-<li>⚡Bash</li>
-</ul>
+
+⚡Web Application Penetration Testing          ⚡Network Penetration Testing<br/>
+⚡Open Source Intellegence Investigation       ⚡Cryptography<br/>
+⚡Social Engineering ❤                        ⚡Python<br/>
+⚡Golang                                       ⚡Bash<br/>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align=center>
