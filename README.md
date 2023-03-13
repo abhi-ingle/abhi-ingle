@@ -53,6 +53,7 @@ I hack private organizations, governments and universities.
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3 align=center>
 Socials
 </h3>
@@ -68,9 +69,10 @@ Socials
 </table>
 
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h3 align="center"> GitHub Analytics </h3>
+<!-- <h3 align="center"> GitHub Analytics </h3>
 
 
 <div align=center>
@@ -89,4 +91,4 @@ Socials
 <br/><br/><br/>
 
 [![Abhijeet's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ -->
