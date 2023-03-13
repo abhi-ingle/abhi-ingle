@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif"  width="85%" height="500" />
+<img src="https://user-images.githubusercontent.com/88927842/224619942-13d4c255-ecf5-437d-aef4-ff325c355211.gif"  width="85%" height="500" />
 
 
 </p>
