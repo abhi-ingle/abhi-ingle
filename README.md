@@ -34,7 +34,7 @@ I communicate better virtually than in-person meet.
 </i>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align=center><b><u>Arsenal</u></b></h3>
+<h3 align=center><b><ins>Arsenal</ins></b></h3>
 <table align=center>
 <tr>
 <td>⚡Web Application Penetration Testing</td>
@@ -58,7 +58,7 @@ I communicate better virtually than in-person meet.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align=center>
-<b><u>Fake World Connection</u></b>
+<b><ins>Fake World Connection</ins></b>
 </h3>
 
 <table align=center>
@@ -83,7 +83,7 @@ I communicate better virtually than in-person meet.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h3 align="center"><b><u> This looks cool right? </u></b></h3>
+<h3 align="center"><b><ins> This looks cool right? </ins></b></h3>
 
 <br/>
 <div align=center>
