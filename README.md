@@ -59,20 +59,20 @@ Socials
 </h3>
 
 <table align=center>
-<tr>
-<td><a href="https://discordapp.com/users/821296505817530368"><img src="https://user-images.githubusercontent.com/88927842/226312989-35c6e2ee-33b2-4749-be31-91f2d910e264.png" % height=80px  alt="discord"/></a></td>
 
-<td><a href="https://twitter.com/_arag0n"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea5586b2-5c3b-410a-ab94-c63856607a4f/d46665n-25928415-819a-409c-9417-cb48794d558a.png/v1/fill/w_894,h_894,q_75,strp/angry_twitter_bird_by_ryujin2490-d46665n.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lYTU1ODZiMi01YzNiLTQxMGEtYWI5NC1jNjM4NTY2MDdhNGYvZDQ2NjY1bi0yNTkyODQxNS04MTlhLTQwOWMtOTQxNy1jYjQ4Nzk0ZDU1OGEucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.w4Jmyol2ZG1DvprY-UjIWSyjO9Qqcj3WaE-vJ3NJySg" height=80px   alt="twitter"/></a>
-</td>
-
-<td><a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://www.nicepng.com/png/detail/24-243809_discover-what-linkedin-can-do-for-your-local.png" height=80px  alt="linkedin"/></a>
-</td>
-</tr>
 <tr>
 <td> Discord</td>
 <td>Twitter</td>
 <td>Linkedin</td>
+</tr>
+<tr>
+<td><a href="https://discordapp.com/users/821296505817530368"><img src="https://user-images.githubusercontent.com/88927842/226312989-35c6e2ee-33b2-4749-be31-91f2d910e264.png" % height=80px width=110px alt="discord"/></a></td>
 
+<td><a href="https://twitter.com/_arag0n"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea5586b2-5c3b-410a-ab94-c63856607a4f/d46665n-25928415-819a-409c-9417-cb48794d558a.png/v1/fill/w_894,h_894,q_75,strp/angry_twitter_bird_by_ryujin2490-d46665n.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lYTU1ODZiMi01YzNiLTQxMGEtYWI5NC1jNjM4NTY2MDdhNGYvZDQ2NjY1bi0yNTkyODQxNS04MTlhLTQwOWMtOTQxNy1jYjQ4Nzk0ZDU1OGEucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.w4Jmyol2ZG1DvprY-UjIWSyjO9Qqcj3WaE-vJ3NJySg" height=80px width=110px  alt="twitter"/></a>
+</td>
+
+<td><a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://www.nicepng.com/png/detail/24-243809_discover-what-linkedin-can-do-for-your-local.png" height=80px  width=110px alt="linkedin"/></a>
+</td>
 </tr>
 </table>
 
