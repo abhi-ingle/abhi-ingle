@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h3 align=center><b>Who am I? (Still figuring that out)</b></h3>
+<h3 align=center><b><u>Who am I? (Still figuring that out)</U></b></h3>
 <i>Myself Abhijeet Ingle a.k.a Aragon. <br/>
 Never thought I would end up as an hacker.
 Anyways I am an internse day dreamer, you would hardly find me in senses, At night my hacker alias takes over.<br/>
@@ -34,7 +34,7 @@ I communicate better virtually than in-person meet.
 </i>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align=center><b>Arsenal</b></h3>
+<h3 align=center><b><u>Arsenal</u></b></h3>
 <table align=center>
 <tr>
 <td>⚡Web Application Penetration Testing</td>
@@ -58,7 +58,7 @@ I communicate better virtually than in-person meet.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align=center>
-<b>Fake World Connection</b>
+<b><u>Fake World Connection</u></b>
 </h3>
 
 <table align=center>
@@ -83,9 +83,9 @@ I communicate better virtually than in-person meet.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h3 align="center"> This looks cool right? </h3>
+<h3 align="center"><b><u> This looks cool right? </u></b></h3>
 
-
+<br/>
 <div align=center>
 
   <img align=left height="180em"  
