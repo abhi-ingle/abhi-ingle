@@ -102,5 +102,5 @@ I communicate better virtually than in-person meet.
 <br/>
 
 
-[![Abhijeet's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Abhijeet's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhi-1712&theme=react-dark)
 
