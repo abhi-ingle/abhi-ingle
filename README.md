@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 align="center"> ⚡Greetings Citizens of the World 🌎</h2>
-<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+<h3 align=center><b>Self centered Talk</b></h3>
 <i>Myself Abhijeet Ingle a.k.a Aragon. <br/>
 Never thought I would end up as an hacker.<br/>
 Anyways I am an internse day dreamer, you would hardly find me in senses, At night my hacker alias takes over.<br/>
@@ -31,7 +33,7 @@ I hack private organizations, governments and universities.
 </i>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align=center>Arsenal</h3>
+<h3 align=center><b>Arsenal</b></h3>
 <table align=center>
 <tr>
 <td>⚡Web Application Penetration Testing</td>
@@ -55,7 +57,7 @@ I hack private organizations, governments and universities.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align=center>
-Socials
+<b>Fake World Connection</b>
 </h3>
 
 <table align=center>
