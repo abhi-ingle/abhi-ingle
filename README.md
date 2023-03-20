@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 <h3 align=center><b>Who am I? (Still figuring that out)</b></h3>
 <i>Myself Abhijeet Ingle a.k.a Aragon. <br/>
-Never thought I would end up as an hacker.<br/>
+Never thought I would end up as an hacker.
 Anyways I am an internse day dreamer, you would hardly find me in senses, At night my hacker alias takes over.<br/>
-I hack private organizations, governments and universities.
+I hack private organizations, governments and universities. I started it as fun but now it has become an addiction. I eventually found out that I am better at breaking things than building them.<br/>
+I communicate better virtually than in-person meet.
 </i>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
