@@ -83,7 +83,7 @@ I communicate better virtually than in-person meet.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<!-- <h3 align="center"> GitHub Analytics </h3>
+<h3 align="center"> GitHub Analytics </h3>
 
 
 <div align=center>
@@ -99,7 +99,8 @@ I communicate better virtually than in-person meet.
 </a>
 </div>
 
-<br/><br/><br/>
+<br/>
 
-[![Abhijeet's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
+
+[![Abhijeet's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
