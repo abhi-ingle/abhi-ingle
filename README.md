@@ -41,7 +41,7 @@ I communicate better virtually than in-person meet.
 <td>⚡Network Penetration Testing</td>
 </tr>
 <tr>
-<td>⚡Open Source Intellegence Investigation</td>
+<td>⚡Open Source Intelligence Investigation</td>
 <td>⚡Social Engineering ❤</td>
 </tr>
 <tr>
