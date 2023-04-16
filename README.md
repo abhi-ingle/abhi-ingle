@@ -26,13 +26,14 @@ Here are some ideas to get you started:
 
 
 <h3 align=center><b><ins>Who am I? (Still figuring that out)</ins>🙃</b></h3>
-I go by the name Aragon, although my real name is Abhijeet Ingle. Hacking was never something I thought I'd be doing, but here I am. I'm a serious daydreamer, often lost in my own thoughts and not fully present in the moment. But when night falls, my hacker persona takes over.
+<p>
+I go by the name Aragon, although my real name is Abhijeet Ingle. Hacking was never something I thought I'd be doing, but here I am. I'm a serious daydreamer, often lost in my own thoughts and not fully present in the moment. But when night falls, my hacker persona takes over.<br/>
 
-My targets are private organizations, governments, and universities. What started as a fun pastime has become an addiction for me. I've discovered that I'm better at breaking things than building them, and hacking satisfies my craving for excitement and challenge.
+My targets are private organizations, governments, and universities. What started as a fun pastime has become an addiction for me. I've discovered that I'm better at breaking things than building them, and hacking satisfies my craving for excitement and challenge.<br/>
 
-When it comes to communication, I find that I excel virtually rather than in-person. I may struggle with face-to-face interactions, but online, I can express myself clearly and confidently.
+When it comes to communication, I find that I excel virtually rather than in-person. I may struggle with face-to-face interactions, but online, I can express myself clearly and confidently.<br/>
 
-</i>
+</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align=center><b><ins>Arsenal</ins>⚔️</b></h3>
