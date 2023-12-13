@@ -38,6 +38,9 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+<p align="center">
+
 <h3 align="center"><b><ins>Arsenal</ins>⚔️</b></h3>
 
 <p align="center">
@@ -59,6 +62,7 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
       <td>⚡Bash</td>
     </tr>
   </table>
+</p>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -98,7 +102,7 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
   width=50%
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
 
-[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username="Abhi-1712"&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img align=right
   width=50% 
