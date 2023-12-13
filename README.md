@@ -92,7 +92,6 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 <h3 align="center"><b><ins> This looks cool right? </ins>👀</b></h3>
 
 <br/>
-<div align=center>
 
   <img align=left height="180em"  
   width=50%
@@ -103,13 +102,12 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
   width=40% 
   height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
 
+<br/>
+<br/>
   
 [![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
-
-</a>
-</div>
 
 <br/>
 
