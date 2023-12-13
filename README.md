@@ -98,11 +98,15 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
   width=50%
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
 
-[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img align=right
+ <img align=right
   width=50% 
   height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
+
+  
+[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ 
 
 </a>
 </div>
