@@ -99,7 +99,7 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 
 
  <img align=right
-  width=60% 
+  width=50% 
   height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
 
 <br/>
