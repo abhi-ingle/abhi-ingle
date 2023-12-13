@@ -109,5 +109,3 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 
 <br/>
 
-
-![Abhijeet's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhi-1712&theme=react-dark)
