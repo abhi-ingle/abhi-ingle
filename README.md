@@ -94,7 +94,7 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 <br/>
 
   <img align=left height="180em"  
-  width=50%
+  width=40%
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
 
 
