@@ -97,7 +97,7 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
     <tr>
         <td>
             
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1712)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1712&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td>
