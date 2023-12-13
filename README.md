@@ -38,8 +38,28 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h3 align="center"><b><ins>Arsenal</ins>⚔️</b></h3>
 
-
+<p align="center">
+  <table>
+    <tr>
+      <td>⚡Web Application Penetration Testing</td>
+      <td>⚡Network Penetration Testing</td>
+    </tr>
+    <tr>
+      <td>⚡Open Source Intelligence Investigation</td>
+      <td>⚡Social Engineering ❤</td>
+    </tr>
+    <tr>
+      <td>⚡Cryptography</td>
+      <td>⚡Python</td>
+    </tr>
+    <tr>
+      <td>⚡Golang</td>
+      <td>⚡Bash</td>
+    </tr>
+  </table>
+</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
