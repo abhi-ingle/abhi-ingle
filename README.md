@@ -96,7 +96,8 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 <table>
     <tr>
         <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1712"/></td>
+ ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-1712&theme=transparent&show_icons=true)
+        </td>
 <td>
  <img  width:70% src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
     </td>
