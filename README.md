@@ -101,7 +101,7 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 
 </td>
 <td>
- <img  width:70% src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
+ <img  width:40% src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
     </td>
    </tr>
 </table>
