@@ -44,7 +44,7 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 <h3 align="center"><b><ins>Arsenal</ins>⚔️</b></h3>
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td>⚡Web Application Penetration Testing</td>
       <td>⚡Network Penetration Testing</td>
