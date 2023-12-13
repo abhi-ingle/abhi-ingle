@@ -93,14 +93,20 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 
 <br/>
 
+<table>
+    <tr>
+        <td>
   <img align=left height="160em"  
   width=45%
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&langs_count=8&theme=algolia"/>
-
-
+   </td>
+<td>
  <img align=right
   width=45% 
   height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
+    </td>
+   </tr>
+</table>
 
 <br/>
 <br/>
