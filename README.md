@@ -93,10 +93,12 @@ I love to talk about tech, science fiction, cyber warfare, and various mind-bogg
 
 <br/>
 
-
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&icons=true&theme=radical) | ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&theme=radical) |
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&icons=true&theme=radical" alt="Top Langs"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&theme=radical" alt="Abhijeet's GitHub stats"></td>
+  </tr>
+</table>
 
 
 <br/>
