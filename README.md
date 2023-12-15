@@ -31,7 +31,7 @@ Abhijeet, alias aragon this side. Hacking was never something I thought I'd be d
 
 My targets are private organizations, governments, and universities. What started as a fun pastime has become an addiction for me. I've discovered that I'm better at breaking things than building them, and hacking satisfies my craving for excitement and challenge.<br/>
 
-I work as a security researcher, dedicating most of my time to studying complex systems and designing security solutions. I love to talk about tech, science fiction, cyber warfare, and various mind-boggling conspiracy theories. If you share similar interests, feel free to contact me. (I prefer online communication to in-person interactions).<br/>
+I work as a security researcher, dedicating most of my time to studying complex systems and designing security solutions. I love to talk about tech, science fiction, cyber warfare, and various mind-boggling conspiracy theories. If you share similar interests, feel free to contact me.<br/>
 
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
