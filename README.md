@@ -93,8 +93,8 @@ I work as a security researcher, dedicating most of my time to studying complex 
 
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1712&layout=compact&icons=true&theme=radical" alt="Top Langs"></td>
-    <td><img widht:30% src="https://github-readme-stats.vercel.app/api?username=Abhi-1712&show_icons=true&theme=radical" alt="Abhijeet's GitHub stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-ingle&layout=compact&icons=true&theme=radical" alt="Top Langs"></td>
+    <td><img widht:30% src="https://github-readme-stats.vercel.app/api?username=abhi-ingle&show_icons=true&theme=radical" alt="Abhijeet's GitHub stats"></td>
   </tr>
 </table>
 
