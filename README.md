@@ -102,7 +102,7 @@ I work as a security researcher, dedicating most of my time to studying complex 
 <br/>
 <br/>
   
-[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi-1712&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi-ingle&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 
